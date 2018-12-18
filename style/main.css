@@ -1,0 +1,61 @@
+img {
+  height: 500px;
+  width: 80%;
+  padding-top: 40px;
+}
+.text-styling {
+  width: 40%;
+  border-radius: 10px;
+  border-color: skyblue;
+  background-color: lightsteelblue;
+  font-size: x-large;
+  font-weight: bold;
+  color: #1d2f49;
+}
+.input-box {
+  padding-top: 150px;
+}
+.heading-styling {
+  font-size: xx-large;
+  font-weight: bolder;
+  background: black;
+  color: white;
+}
+.question-styling {
+  padding-top: 30px;
+  font-size: large;
+  font-weight: bolder;
+  background: black;
+  color: skyblue;
+}
+body {
+  background-color: black;
+}
+.next-styling {
+  color: white;
+  padding-top: 20px;
+  font-size: large;
+  font-weight: bolder;
+}
+[ng-click] {
+  cursor: pointer;
+}
+.error-styling {
+  padding-top: 20px;
+  color: tomato;
+}
+.button-styling {
+  margin-top: 40px;
+}
+.finished-styling {
+  text-align: center;
+  font-size: -webkit-xxx-large;
+  font-weight: bolder;
+  color: teal;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+}
